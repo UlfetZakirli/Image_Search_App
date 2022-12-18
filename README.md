@@ -1,6 +1,6 @@
 # Image-Search-App
 
-**Live App -** https://vercel.com/ulfetzakirli/image-search-app
+**Live App -** https://image-search-app-omega.vercel.app/
 
 ## Used Technologies
 
